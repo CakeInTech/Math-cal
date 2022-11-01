@@ -1,5 +1,9 @@
+import { Route, Routes } from 'react-router-dom';
 import React from 'react';
 import Calculator from './components/Calculator';
+import Navbar from './components/Pages/Navbar';
+import Home from './components/Pages/Home';
+import Quote from './components/Pages/Quote';
 import './index.css';
 
 class App extends React.PureComponent {
@@ -11,8 +15,12 @@ class App extends React.PureComponent {
   render() {
     return (
       <>
-        <h1>Calculator Page</h1>
-        <Calculator />
+        <Navbar />
+        <Routes>
+          <Route path="/home" element={<Home />} />
+          <Route path="calculator" element={<Calculator />} />
+          <Route path="about" element={<Quote />} />
+        </Routes>
       </>
     );
   }
