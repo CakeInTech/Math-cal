@@ -24,6 +24,7 @@ function Calculator() {
   const { total, next, operation } = state;
   return (
     <div className="main">
+      <h1>Hey there Let&apos;s do some math</h1>
       <div className="min-calculator">
         <div className="screen" onChange={showAnswer}>
           {total}
