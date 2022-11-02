@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="quoteContainer"
+>
+  <div
+    className="generator"
+  >
+    <figure>
+      <blockquote>
+        <p>
+          "
+          Mathematics is the queen of science, and arithmetic the queen of mathematics.
+           
+          "
+        </p>
+      </blockquote>
+      <figcaption>
+        —
+        Public Quotes
+      </figcaption>
+    </figure>
+  </div>
+  <button
+    className="btn btn-outline-info"
+    onClick={[Function]}
+    type="button"
+  >
+    Get Random Quote
+  </button>
+</div>
+`;
