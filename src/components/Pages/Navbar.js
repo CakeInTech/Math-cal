@@ -6,7 +6,7 @@ import './page.css';
 const links = [
   {
     id: 1,
-    path: '/home',
+    path: '/',
     text: 'home',
   },
   {
