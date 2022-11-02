@@ -7,9 +7,9 @@
 
 ## Built With
 
-- Javascript React 
-- Frameworks
-- Technologies used
+- Html, CSS, Javascript
+- Bootstrap, React
+- Node.js and npm package manager
 
 ## Live Demo (Incomming...)
 
