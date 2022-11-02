@@ -11,9 +11,8 @@
 - Bootstrap, React
 - Node.js and npm package manager
 
-## Live Demo (Incomming...)
-
-[Live Demo Link](https://livedemo.com)
+## For Live Demo :  
+[Click here](https://livedemo.com)
 
 
 ## Getting Started

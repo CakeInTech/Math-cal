@@ -69,6 +69,7 @@ p {
   padding: 5% 15%;
   background-color: #141d2c;
   border: none;
+  overflow-y: hidden;
 }
 
 .banner {
