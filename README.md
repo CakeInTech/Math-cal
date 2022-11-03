@@ -12,7 +12,7 @@
 - Node.js and npm package manager
 
 ## For Live Demo :  
-[Click here](https://livedemo.com)
+[Click here](https://cake-math-magician.netlify.app/)
 
 
 ## Getting Started
